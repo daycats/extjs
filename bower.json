@@ -1,0 +1,22 @@
+{
+  "name": "extjs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/myweishanli/extjs",
+  "authors": [
+    "'myweishanli' <'myweishanli@gmail.com'>"
+  ],
+  "description": "Ext Js 5",
+  "main": "js/ext-all.js",
+  "keywords": [
+    "ExtJs",
+    "ExtJs5"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

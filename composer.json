@@ -1,0 +1,14 @@
+{
+    "name": "myweishanli/extjs",
+    "description": "Ext Js 5",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ShanLi Wei",
+            "email": "myweishanli@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
